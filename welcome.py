@@ -1,3 +1,3 @@
 print ("welcome")
 print ("welcome2")
-print ("welcome3")
+print ("release")
