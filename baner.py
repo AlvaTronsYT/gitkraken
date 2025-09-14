@@ -1,0 +1,1 @@
+print ("baner0")
